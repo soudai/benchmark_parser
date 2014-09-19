@@ -1,0 +1,9 @@
+### NetBeans ###
+/nbproject/*
+
+### log ###
+/my/*
+/pg-*/*
+/maria/*
+### csv ###
+/csv/*
